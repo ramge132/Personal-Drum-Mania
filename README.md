@@ -38,6 +38,3 @@
 <br />
 
 ![img](./docs/images/4.jpg)
-
-
-
